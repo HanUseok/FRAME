@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/ar/page": "/ar",
+  "/bid/page": "/bid",
+  "/bid/success/page": "/bid/success",
+  "/certificate/page": "/certificate",
+  "/detail/page": "/detail",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/payment/page": "/payment"
+}
